@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: teal;
+}
+#container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+    margin-top:100px;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom:70px;
+}
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
